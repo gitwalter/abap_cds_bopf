@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_BOPF_I_SALESORDER_C</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Generated Constants Interface</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_BOPF_I_SALESORDER_C</CLSNAME>
+     <CMPNAME>SC_ACTION</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Actions</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_BOPF_I_SALESORDER_C</CLSNAME>
+     <CMPNAME>SC_ACTION_ATTRIBUTE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Action Parameter Attributes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_BOPF_I_SALESORDER_C</CLSNAME>
+     <CMPNAME>SC_ASSOCIATION</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Associations</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_BOPF_I_SALESORDER_C</CLSNAME>
+     <CMPNAME>SC_ASSOCIATION_ATTRIBUTE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Association Parameter Attributes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_BOPF_I_SALESORDER_C</CLSNAME>
+     <CMPNAME>SC_NODE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Nodes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_BOPF_I_SALESORDER_C</CLSNAME>
+     <CMPNAME>SC_NODE_ATTRIBUTE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Node Attributes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_BOPF_I_SALESORDER_C</CLSNAME>
+     <CMPNAME>SC_NODE_CATEGORY</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Node Categories</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
