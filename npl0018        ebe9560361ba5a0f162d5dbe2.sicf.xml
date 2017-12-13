@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SICF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <URL>/sap/opu/odata/sap/NPL0018/</URL>
+   <ICFSERVICE>
+    <ICF_NAME>NPL0018</ICF_NAME>
+    <ICF_MANDT>001</ICF_MANDT>
+    <ORIG_NAME>NPL0018</ORIG_NAME>
+    <ICFALTNME>ZBOPF_C_SALESORDER_CDS</ICFALTNME>
+    <ICFALTNME_ORIG>zbopf_c_salesorder_cds</ICFALTNME_ORIG>
+   </ICFSERVICE>
+   <ICFHANDLER_TABLE>
+    <ICFHANDLER>
+     <ICF_NAME>NPL0018</ICF_NAME>
+     <ICFORDER>01</ICFORDER>
+     <ICFTYP>A</ICFTYP>
+     <ICFHANDLER>/IWFND/CL_SODATA_HTTP_HANDLER</ICFHANDLER>
+    </ICFHANDLER>
+   </ICFHANDLER_TABLE>
+  </asx:values>
+ </asx:abap>
+</abapGit>
