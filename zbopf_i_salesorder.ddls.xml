@@ -4,6 +4,8 @@
   <asx:values>
    <DDLS>
     <DDLNAME>ZBOPF_I_SALESORDER</DDLNAME>
+    <DDLANGUAGE>D</DDLANGUAGE>
+    <DDTEXT>zbopf_i_salesorder</DDTEXT>
     <CHGFLAG>45</CHGFLAG>
     <SOURCE_TYPE>V</SOURCE_TYPE>
    </DDLS>

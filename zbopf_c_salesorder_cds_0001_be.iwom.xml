@@ -890,6 +890,13 @@
      <LENGTH>255</LENGTH>
     </item>
    </_-IWFND_-I_MED_CDL_field_catalog>
+   <_-IWFND_-I_MED_OHT>
+    <_-IWFND_-I_MED_OHT>
+     <MODEL_IDENTIFIER>ZBOPF_C_SALESORDER_CDS_0001_BE</MODEL_IDENTIFIER>
+     <IS_ACTIVE>A</IS_ACTIVE>
+     <LANGUAGE>D</LANGUAGE>
+    </_-IWFND_-I_MED_OHT>
+   </_-IWFND_-I_MED_OHT>
    <_-IWFND_-I_MED_OHT_field_catalog>
     <item>
      <POS>1</POS>

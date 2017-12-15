@@ -57,6 +57,13 @@
      <LENGTH>8</LENGTH>
     </item>
    </_-IWBEP_-I_MGW_OHD_field_catalog>
+   <_-IWBEP_-I_MGW_OHT>
+    <_-IWBEP_-I_MGW_OHT>
+     <TECHNICAL_NAME>ZBOPF_C_SALESORDER_CDS</TECHNICAL_NAME>
+     <VERSION>0001</VERSION>
+     <LANGUAGE>D</LANGUAGE>
+    </_-IWBEP_-I_MGW_OHT>
+   </_-IWBEP_-I_MGW_OHT>
    <_-IWBEP_-I_MGW_OHT_field_catalog>
     <item>
      <POS>1</POS>

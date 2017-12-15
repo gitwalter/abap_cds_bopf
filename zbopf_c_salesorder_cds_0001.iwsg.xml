@@ -148,6 +148,13 @@
      <LENGTH>40</LENGTH>
     </item>
    </_-IWFND_-I_MED_SRG_field_catalog>
+   <_-IWFND_-I_MED_SRT>
+    <_-IWFND_-I_MED_SRT>
+     <SRV_IDENTIFIER>ZBOPF_C_SALESORDER_CDS_0001</SRV_IDENTIFIER>
+     <IS_ACTIVE>A</IS_ACTIVE>
+     <LANGUAGE>D</LANGUAGE>
+    </_-IWFND_-I_MED_SRT>
+   </_-IWFND_-I_MED_SRT>
    <_-IWFND_-I_MED_SRT_field_catalog>
     <item>
      <POS>1</POS>
